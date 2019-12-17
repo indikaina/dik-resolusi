@@ -3,3 +3,4 @@ Rencana Ku di 2020
 - Punya laptop baru
 - menguasai git dan API
 - Menguasai Javascript
+- Punya hape baru dengan spesifikasi minimal snapdragon versi 8
